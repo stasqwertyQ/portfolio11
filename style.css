@@ -1,0 +1,1151 @@
+
+.ukraine___list {
+    position: absolute;
+    width: 1470px;
+    height: 85px;
+    left: 0px;
+    top: -25px;
+
+    background: #010632;
+
+
+}
+
+
+
+.list-------item11 {
+    position: absolute;
+    width: 169px;
+    height: 29px;
+    left: 193px;
+    top: 33px;
+
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+
+
+
+    color: #FFFFFF;
+}
+
+
+
+.list--item22 {
+    position: absolute;
+    width: 88px;
+    height: 29px;
+    left: 448px;
+    top: 33px;
+
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+
+    color: #FFFFFF;
+}
+
+
+.heading-----2 {
+    position: absolute;
+    width: 436px;
+    height: 69px;
+    left: 602px;
+    top: -4px;
+
+
+    font-family: 'Istok Web';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 69px;
+
+
+
+    color: #FFFFFF;
+}
+
+
+.spaning {
+    color: rgb(27, 178, 224);
+}
+
+
+.spaning---ukr {
+    color: yellow;
+}
+
+
+.list-------item3 {
+    position: absolute;
+    width: 166px;
+    height: 29px;
+    left: 1105px;
+    top: 33px;
+
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+
+    color: #FFFFFF;
+}
+
+
+
+
+.h1-----luzi {
+    position: absolute;
+    width: 1091px;
+    height: 278px;
+    left: 206px;
+    top: 125px;
+
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 64px;
+    line-height: 92px;
+    text-align: center;
+
+    color: #0075FF;
+}
+
+
+
+.bandera----heading {
+    position: absolute;
+    width: 1091px;
+    height: 278px;
+    left: 174px;
+    top: 215px;
+
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 64px;
+    line-height: 92px;
+    text-align: center;
+
+    color: yellow;
+
+}
+
+.h1-----luzi {
+    top: 181px;
+    font-size: 5em;
+}
+
+
+.bandera----heading {
+    top: 290px;
+    font-size: 5em;
+}
+
+
+
+
+.heroing {
+    position: absolute;
+    width: 1475px;
+    height: 480px;
+    left: 0px;
+    top: 738px;
+
+    background: #010632;
+}
+
+
+
+.money____maing {
+    position: absolute;
+    width: 375px;
+    height: 69px;
+    left: 138px;
+    top: 43px;
+
+
+    font-family: 'Istok Web';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 19px;
+
+
+
+    color: #FFFFFF;
+}
+
+
+.lorem--mine {
+    position: absolute;
+    width: 414px;
+    height: 233px;
+    left: 138px;
+    top: 96px;
+
+
+
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+
+    color: #FFFFFF;
+}
+
+
+
+
+
+.img____mainng {
+    position: absolute;
+    width: 365px;
+    height: 251px;
+    left: 637px;
+    top: 34px;
+}
+
+
+.img----2 {
+    position: absolute;
+    width: 265px;
+    height: 203px;
+    left: 1037px;
+    top: 195px;
+}
+
+
+
+.you-----item {
+    position: absolute;
+    width: 1475px;
+    height: 461px;
+    left: 0px;
+    top: 1219px;
+
+    background: #060D49;
+}
+
+
+
+.heading__for--you {
+    position: absolute;
+    width: 186px;
+    height: 69px;
+    left: 889px;
+    top: 41px;
+
+
+
+    font-family: 'Istok Web';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 69px;
+
+
+    color: #FFFFFF;
+}
+
+.h3---lorem {
+    position: absolute;
+    width: 414px;
+    height: 233px;
+    left: 889px;
+    top: 130px;
+
+
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+
+    color: #FFFFFF;
+}
+
+
+
+
+.img--1 {
+    margin-top: 29px;
+    margin-left: 139px;
+    width: 365px;
+    height: 251px;
+}
+
+
+
+.img______2 {
+    margin-top: -85px;
+    margin-left: 540px;
+    width: 265px;
+    height: 203px;
+}
+
+
+
+
+.img----fon {
+    background-image: url(img/header/fon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 1578px;
+    height: 734px;
+    margin-left: -111px;
+}
+
+
+
+.sectio---6---_imeges {
+    position: absolute;
+    width: 1475px;
+    height: 773px;
+    left: 0px;
+    top: 1680px;
+
+    background: #010632;
+}
+
+
+
+.ukr--6 {
+    position: absolute;
+    width: 780px;
+    height: 138px;
+    left: 380px;
+    top: 13px;
+
+
+    font-family: 'Istok Web';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 69px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+
+.img---1 {
+    width: 364px;
+    height: 264px;
+    margin-top: 159px;
+    margin-left: 139px;
+}
+
+
+.img----_2 {
+    position: absolute;
+    width: 264px;
+    height: 261px;
+    left: 139px;
+    top: 442px;
+}
+
+
+
+.imege---3 {
+    position: absolute;
+    width: 364px;
+    height: 550px;
+    left: 939px;
+    top: 158px;
+}
+
+
+
+.img------4 {
+    position: absolute;
+    width: 465px;
+    height: 264px;
+    left: 438px;
+    top: 443px;
+}
+
+
+.img----5 {
+    position: absolute;
+    width: 364px;
+    height: 114px;
+    left: 539px;
+    top: 159px;
+}
+
+
+.img----6 {
+    position: absolute;
+    width: 364px;
+    height: 129px;
+    left: 539px;
+    top: 294px;
+}
+
+
+
+
+.paragrafing {
+    position: absolute;
+    width: 436px;
+    height: 69px;
+    left: 502px;
+    top: 11px;
+}
+
+
+
+
+
+.zsy---cards {
+
+    position: absolute;
+    width: 1480px;
+    height: 857px;
+    left: 0px;
+    top: 2442px;
+
+    background: #060D49;
+}
+
+
+
+
+.heading----projeckt {
+    position: absolute;
+    width: 753px;
+    height: 69px;
+    left: 344px;
+    top: 28px;
+
+
+
+    font-family: 'Istok Web';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 69px;
+
+
+
+    color: #FFFFFF;
+}
+
+
+
+
+
+
+.ul-----3 {
+    position: absolute;
+    width: 270px;
+    height: 428px;
+    left: 15px;
+    top: 140px;
+}
+
+
+.list-----box1 {
+    position: absolute;
+    width: 365px;
+    height: 487px;
+    left: 18px;
+    top: 52px;
+
+    background: #FFFFFF;
+}
+
+
+
+.img--zsy {
+    position: absolute;
+    width: 325px;
+    height: 204px;
+    left: 23px;
+    top: 18px;
+}
+
+
+
+
+.heading---card1 {
+    position: absolute;
+    width: 293px;
+    height: 69px;
+    left: 42px;
+    top: 186px;
+
+
+
+    font-family: 'Istok Web';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 69px;
+
+
+
+    color: #000000;
+}
+
+
+
+
+.heading----lorem {
+    position: absolute;
+    width: 287px;
+    height: 35px;
+    left: 45px;
+    top: 273px;
+
+
+
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+
+
+    text-align: center;
+
+    color: #000000;
+}
+
+
+.heading----44 {
+    position: absolute;
+    width: 46px;
+    height: 35px;
+    left: 168px;
+    top: 310px;
+
+
+
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+
+
+    text-align: center;
+
+    color: #000000;
+}
+
+
+.img---vector {
+    position: absolute;
+    width: 150px;
+    height: 5px;
+    left: 112px;
+    top: 371px;
+}
+
+.zsy___botton {
+    position: absolute;
+    width: 235px;
+    height: 61px;
+    left: 70px;
+    top: 399px;
+    outline: none;
+
+    background: #0057FF;
+    border-radius: 17px;
+}
+
+
+
+
+
+
+
+
+
+.card---3 {
+    position: absolute;
+    width: 365px;
+    height: 487px;
+    left: 1053px;
+    top: 52px;
+
+    background: #FFFFFF;
+}
+
+
+
+.img--card3 {
+    position: absolute;
+    width: 335px;
+    height: 214px;
+    left: 18px;
+    top: 12px;
+}
+
+
+.heading---3 {
+    position: absolute;
+    width: 293px;
+    height: 69px;
+    left: 52px;
+    top: 177px;
+
+
+    font-family: 'Istok Web';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 69px;
+
+
+    color: #000000;
+}
+
+
+
+.heading--3-1 {
+    position: absolute;
+    width: 287px;
+    height: 35px;
+    left: 47px;
+    top: 263px;
+
+
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+
+
+    text-align: center;
+
+    color: #000000;
+}
+
+
+
+.heading--nomber {
+    position: absolute;
+    width: 46px;
+    height: 35px;
+    left: 178px;
+    top: 313px;
+
+
+
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+
+
+    text-align: center;
+
+    color: #000000;
+}
+
+
+
+
+.img---vecto3 {
+    position: absolute;
+    width: 150px;
+    height: 5px;
+    left: 112px;
+    top: 381px;
+}
+
+
+
+.butonn---3 {
+    width: 113px;
+    height: 25px;
+    left: 100px;
+    top: 2px;
+
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    text-align: center;
+
+    color: #030000;
+
+
+
+
+    position: absolute;
+    width: 235px;
+    height: 61px;
+    left: 74px;
+    top: 399px;
+
+    background: #0057FF;
+    border-radius: 17px;
+}
+
+
+
+.footering {
+    position: absolute;
+    width: 1480px;
+    height: 349px;
+    left: 0px;
+    top: 3271px;
+
+    background: #010632;
+}
+
+
+
+
+.heding____-2 {
+    position: absolute;
+    width: 436px;
+    height: 69px;
+    left: 502px;
+    top: 7px;
+
+
+    font-family: 'Istok Web';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 69px;
+    color: #FFFFFF;
+}
+
+
+.spaning-stand {
+    color: rgba(0, 117, 255, 1);
+}
+
+
+.spaning---ukreine {
+    color: yellow;
+}
+
+
+
+.paragrafing--1 {
+    width: 106px;
+    height: 35px;
+    margin-top: 69px;
+    margin-left: 138px;
+
+
+
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+
+
+.paragrafing--2 {
+    width: 320px;
+    height: 35px;
+    margin-top: 15px;
+    margin-left: 130px;
+
+
+
+
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+
+
+
+
+.paragrafing--3 {
+    width: 481.33px;
+    height: 61px;
+    margin-top: 19px;
+    margin-left: 131px;
+
+
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+
+    color: #FFFFFF;
+}
+
+
+
+
+.paragrafiing--social {
+    width: 199px;
+    height: 55px;
+    margin-top: -200px;
+    margin-left: 870px;
+
+
+
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+
+
+
+.social---link1 {
+    width: 37px;
+    height: 37px;
+    margin-top: 150px;
+    margin-left: 954px;
+}
+
+
+.social--link--1 {
+    display: flex;
+}
+
+.social---item---list {
+    width: 44px;
+    height: 44px;
+    margin-top: -34px;
+    margin-left: 950px;
+}
+
+
+.social--link--1 {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 300ms linear, color 300ms linear;
+}
+
+
+
+.social---coing {
+    width: 20px;
+    height: 20px;
+    fill: black;
+}
+
+
+.social--link--1:hover {
+    background-color: #cec10d;
+    color: white;
+}
+
+
+
+.social--link---2 {
+    display: flex;
+}
+
+
+
+
+.social---list--item1 {
+    width: 40px;
+    height: 40px;
+    margin-top: -42px;
+    margin-left: 1019px;
+}
+
+
+
+.social--link---2 {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: 9px;
+    transition: background-color 300ms linear, color 300ms linear;
+}
+
+
+
+.social---icoing1 {
+    width: 20px;
+    height: 20px;
+    fill: black;
+}
+
+
+.social--link---2:hover {
+    background-color: #cec10d;
+    color: white;
+}
+
+
+
+
+
+
+
+
+.social--link---3 {
+    display: flex;
+}
+
+
+
+
+.social---list--item3 {
+    width: 45px;
+    height: 45px;
+    margin-top: -42px;
+    margin-left: 1090px;
+}
+
+
+
+.social--link---3 {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: 63px;
+    transition: background-color 300ms linear, color 300ms linear;
+}
+
+
+
+.social---icoing3 {
+    width: 30px;
+    height: 30px;
+    fill: black;
+}
+
+
+.social--link---3:hover {
+    background-color: #ecde0f;
+    color: white;
+}
+
+
+.paragraff---footer {
+    width: 159.11px;
+    height: 37px;
+    margin-top: 130px;
+    margin-left: 640px;
+
+
+
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+/*-------------------------------------------------------FORM-----------------------*/
+
+
+
+
+
+.copyright {
+    text-align: center;
+    margin: 0 auto;
+}
+
+/* -------------------------------FORM -------------------------------- */
+
+
+body {
+    box-sizing: border-box;
+
+    background-color: grey;
+}
+
+.backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.is-hidden {
+    visibility: hidden;
+    opacity: 0;
+    pointer-events: none;
+}
+
+.modal {
+    display: flex;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #ffffff;
+
+    width: 1005px;
+    height: 600px;
+    border-radius: 20px;
+
+    padding: 14px 55px 115px 45px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    z-index: 20px;
+}
+
+.input-wrapper {
+    position: relative;
+}
+
+.form__input {
+    display: block;
+
+    width: 519px;
+    height: 55px;
+
+    background: #ffffff;
+    border: 1px solid #000000;
+    border-radius: 50px;
+
+    padding-left: 25px;
+    margin-bottom: 65px;
+    margin-right: 55px;
+
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #959595;
+}
+
+
+
+
+
+
+
+
+
+
+.input-unique {
+    width: 690px;
+    height: 60px;
+
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 33px;
+
+    color: #8d8d8d;
+
+    padding-right: 265px;
+    background: #ffffff;
+    border: 1px solid #000000;
+    border-radius: 50px;
+}
+
+.confirm__button {
+    position: absolute;
+    top: 5px;
+    right: 7px;
+    width: 250px;
+    height: 50px;
+
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 33px;
+
+    color: #8d8d8d;
+
+    opacity: 0.5;
+    border: 1px solid #000000;
+    border-radius: 50px;
+}
+
+.button {
+    width: 250px;
+    height: 70px;
+}
+
+.modal--image {
+    width: 450px;
+    height: 446px;
+
+    margin-top: 70px;
+}
+
+.button-close {
+    position: absolute;
+    top: 30px;
+    right: 30px;
+
+    width: 22px;
+    height: 22px;
+
+    background-color: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 50%;
+}
+
+.icon-close {
+    width: 22px;
+    height: 22px;
+    cursor: pointer;
+    fill: red;
+
+}
